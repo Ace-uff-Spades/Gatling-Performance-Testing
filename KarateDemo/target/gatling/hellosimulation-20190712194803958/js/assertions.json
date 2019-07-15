@@ -1,0 +1,10 @@
+{
+  "simulation": "Hello.HelloSimulation",
+  "simulationId": "hellosimulation",
+  "start": 1562960883958,
+  "description": "",
+  "scenarios": ["login"],
+  "assertions": [
+
+  ]
+}
